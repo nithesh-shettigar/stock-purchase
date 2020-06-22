@@ -1,0 +1,1 @@
+hhhh<?php /**PATH C:\Users\HP\Desktop\Desktop\testlaravel\resources\views/a.blade.php ENDPATH**/ ?>
